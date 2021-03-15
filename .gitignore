@@ -195,4 +195,8 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
+
+
+couse_list.png
+
 # End of https://www.toptal.com/developers/gitignore/api/androidstudio,java,vim,linux
